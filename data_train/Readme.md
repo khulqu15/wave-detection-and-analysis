@@ -9,3 +9,23 @@ The softmax function is a nonlinear function that maps a vector of arbitrary rea
 The output of the neural network is a probability distribution over the two classes, waves and not_waves, represented by a vector of two values between 0 and 1 that sum up to 1. The softmax function ensures that the output vector is a valid probability distribution. The predicted class is the class with the highest probability value.
 
 This the capture from training CNN: 
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train1.png?raw=true)
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train2.png?raw=true)
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train3.png?raw=true)
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train4.png?raw=true)
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train5.png?raw=true)
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train6.png?raw=true)
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train7.png?raw=true)
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train8.png?raw=true)
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train9.png?raw=true)
+
+![Image1](https://github.com/khulqu15/wave-detection-and-analysis/blob/main/data_train/train10.png?raw=true)
